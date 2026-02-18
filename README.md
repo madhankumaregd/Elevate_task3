@@ -1,19 +1,19 @@
 # Elevate_task3
 shopping trends
-# E-commerce SQL Data Analysis
+# Shopping Trends – E-commerce SQL Data Analysis
 
 ## Project Overview
-This project analyzes an online retail dataset containing transaction data from 2010-2011. The analysis covers customer behavior, product performance, and sales trends using SQL.
+This project analyzes an online retail dataset to uncover shopping trends, customer behavior, and sales patterns. The analysis uses SQL to explore transaction data and derive actionable insights for e-commerce decision-making.
 
 ## Tools Used
 - MySQL 8.0
 - MySQL Workbench
-- Dataset: UCI Online Retail Dataset (541,909 rows)
+- Dataset: Online Retail / E-commerce Transaction Dataset
 
 ## Key Analyses
 1. **Customer Analysis**: RFM segmentation, lifetime value, cohort analysis
 2. **Product Analysis**: Best sellers, price points, bundling
-3. **Sales Analysis**: Monthly trends, country performance
+3. **Sales Analysis**: Monthly trends, country or region performance
 4. **Advanced SQL**: Subqueries, CTEs, window functions, views
 
 ## Files Description
